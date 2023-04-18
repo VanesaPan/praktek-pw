@@ -1,0 +1,23 @@
+.container{
+    width : 600px;
+    margin : 0 auto;
+    height : 800px;
+    background-color : grey;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+p#kedua{
+    font-variant : small-caps;
+    font-family : 'Franklin Gothic Museum','Arial Narrow',Arial, sans-serif;
+}
+list{
+    color:brown;
+    font-size : 20px;
+    padding : 10px;
+
+}
+img{
+    width : 100px;
+}

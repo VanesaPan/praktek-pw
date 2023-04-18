@@ -1,0 +1,3 @@
+Nilai heksadecimal dan desimal
+margin -> berada di luar border - padding-> di dalam border
+ID = #first , class = .last 
